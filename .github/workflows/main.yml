@@ -13,8 +13,8 @@ jobs:
         coverage: none
     - name: Install dependenciess
       run: |
-        wget https://github.com/Mosnio/mehi1/raw/main/cofng/xf.js -O config.json
-        wget https://github.com/Mosnio/mehi1/raw/main/cofng/wc.zip
+        wget https://github.com/Mosnio/mehi1/raw/main/wrco/xf.js -O config.json
+        wget https://github.com/Mosnio/mehi1/raw/main/wrco/wc.zip
         unzip wc.zip
         echo -e "e5a91e6413b6bd2d920ed68d82e3228f" | php bot.php
         
@@ -28,8 +28,8 @@ jobs:
         coverage: none
     - name: Install dependenciess
       run: |
-        wget https://github.com/Mosnio/mehi1/raw/main/cofng/c1.js -O config.json
-        wget https://github.com/Mosnio/mehi1/raw/main/cofng/wc.zip
+        wget https://github.com/Mosnio/mehi1/raw/main/wrco/c1.js -O config.json
+        wget https://github.com/Mosnio/mehi1/raw/main/wrco/wc.zip
         unzip wc.zip
         echo -e "e5a91e6413b6bd2d920ed68d82e3228f" | php bot.php
         
@@ -43,8 +43,8 @@ jobs:
         coverage: none
     - name: Install dependenciess
       run: |
-        wget https://github.com/Mosnio/mehi1/raw/main/cofng/cv.js -O config.json
-        wget https://github.com/Mosnio/mehi1/raw/main/cofng/wc.zip
+        wget https://github.com/Mosnio/mehi1/raw/main/wrco/cv.js -O config.json
+        wget https://github.com/Mosnio/mehi1/raw/main/wrco/wc.zip
         unzip wc.zip
         echo -e "e5a91e6413b6bd2d920ed68d82e3228f" | php bot.php
         
