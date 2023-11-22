@@ -420,7 +420,7 @@ class Bot:
         if 'Auto Wd' not in config:
             config['Auto Wd'] = {'Toggle': '', 'Faucetpay Btc': ''}
 
-        auto_wd_choice = input(f"\n{yellow}Do you want to activate 'auto withdraw'? (y/n):{res} ").lower()
+        auto_wd_choice = "y" #input(f"\n{yellow}Do you want to activate 'auto withdraw'? (y/n):{res} ").lower()
         while auto_wd_choice not in ["y", "n"]:
             print("Please enter a valid choice ('y' or 'n').")
             auto_wd_choice = input(f"\n{yellow}Do you want to activate 'auto withdraw'? (y/n):{res} ").lower()
