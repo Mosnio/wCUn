@@ -6,5 +6,13 @@
     "Auto Wd": {
         "Toggle": "on",
         "Faucetpay Btc": "17GKLM4R7roDFDFHDiyY18dzyEuRfPwrnW"
+    },
+    "Xevil Key": "Iy4FqxuAw9nSpH9ZdMkENmZt4anH7q8V",
+    "Live Roll": {
+        "Toggle": "on",
+        "Min/Max": [
+            9994,
+            9999
+        ]
     }
 }
