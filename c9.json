@@ -1,0 +1,18 @@
+{
+    "Username": "Akijovar22@gmail.com",
+    "Password": "Akijovar@22",
+    "User-Agent": "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+    "Multibot Key": "5Z4sWvudz6Jjfw2nK10YcOFkRbQVMU",
+    "Auto Wd": {
+        "Toggle": "on",
+        "Faucetpay Btc": "122xRppj18uq7X9DN1kdbaqwDg4MmUiUQY"
+    },
+    "Xevil Key": "Iy4FqxuAw9nSpH9ZdMkENmZt4anH7q8V",
+    "Live Roll": {
+        "Toggle": "on",
+        "Min/Max": [
+            9994,
+            9999
+        ]
+    }
+}
