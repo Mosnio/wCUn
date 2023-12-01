@@ -1,0 +1,18 @@
+{
+    "Username": "RonyLin5_566@gmail.com",
+    "Password": "RonyLin5_566",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0",
+    "Multibot Key": "5Z4sWvudz6Jjfw2nK10YcOFkRbQVMU",
+    "Auto Wd": {
+        "Toggle": "on",
+        "Faucetpay Btc": "1H4r2UDYbbNxV4PyrfeM2BAmNtLz7Gao44"
+    },
+    "Xevil Key": "Iy4FqxuAw9nSpH9ZdMkENmZt4anH7q8V",
+    "Live Roll": {
+        "Toggle": "on",
+        "Min/Max": [
+            9994,
+            9999
+        ]
+    }
+}
