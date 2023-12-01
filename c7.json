@@ -1,0 +1,18 @@
+{
+    "Username": "John_haquo56@gmail.com",
+    "Password": "Johnhaqu@12",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Edge/89.0.774.63 Safari/537.36",
+    "Multibot Key": "5Z4sWvudz6Jjfw2nK10YcOFkRbQVMU",
+    "Auto Wd": {
+        "Toggle": "on",
+        "Faucetpay Btc": "1AFtPGMH52X1Ub76WoaFPVA8e5d4DJxhgT"
+    },
+    "Xevil Key": "Iy4FqxuAw9nSpH9ZdMkENmZt4anH7q8V",
+    "Live Roll": {
+        "Toggle": "on",
+        "Min/Max": [
+            9994,
+            9999
+        ]
+    }
+}
