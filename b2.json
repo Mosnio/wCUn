@@ -1,0 +1,17 @@
+{
+    "Username": "ellami43@outlook.com",
+    "Password": "ellami43_43",
+    "User-Agent": "Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; AS; rv:11.0) like Gecko",
+    "Auto Wd": {
+        "Toggle": "on",
+        "Amount": [],
+        "Faucetpay Btc": "1Md3HwP8Ap5vk7ac5Sx9m8jhKFzoT6chAF"
+    },
+    "Live Roll": {
+        "Toggle": "on",
+        "Min/Max": [
+            9983,
+            9999
+        ]
+    }
+}
