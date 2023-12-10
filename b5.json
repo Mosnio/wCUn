@@ -1,0 +1,17 @@
+{
+    "Username": "Kittuva26xyi5@gmail.com",
+    "Password": "Kittuv@a26xyi5",
+    "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36",
+    "Auto Wd": {
+        "Toggle": "on",
+        "Amount": [],
+        "Faucetpay Btc": "16VawnGQeN5eGfLPndh94uR856LqNEup47"
+    },
+    "Live Roll": {
+        "Toggle": "on",
+        "Min/Max": [
+            9983,
+            9999
+        ]
+    }
+}
