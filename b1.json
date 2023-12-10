@@ -1,0 +1,17 @@
+{
+    "Username": "Vathukan445@gmail.com",
+    "Password": "Vathuka@5565",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
+    "Auto Wd": {
+        "Toggle": "on",
+        "Amount": [],
+        "Faucetpay Btc": "17GKLM4R7roDFDFHDiyY18dzyEuRfPwrnW"
+    },
+    "Live Roll": {
+        "Toggle": "on",
+        "Min/Max": [
+            9983,
+            9999
+        ]
+    }
+}
