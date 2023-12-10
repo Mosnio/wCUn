@@ -1,0 +1,17 @@
+{
+    "Username": "Ingortu554@gmail.com",
+    "Password": "Ingortu#55",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",
+    "Auto Wd": {
+        "Toggle": "on",
+        "Amount": [],
+        "Faucetpay Btc": "1AjaiD7vKFr8xq4hz6amDqwPyd2pcxXpRY"
+    },
+    "Live Roll": {
+        "Toggle": "on",
+        "Min/Max": [
+            9983,
+            9999
+        ]
+    }
+}
